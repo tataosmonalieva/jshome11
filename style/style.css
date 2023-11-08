@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 900px;
+    margin: 0 auto;
+}
+.row{
+    display: flex;
+    flex-wrap:wrap ;
+    margin: 0 -15px;
+}
+body{
+    background: url("https://thumbs.dreamstime.com/b/world-map-technological-background-best-internet-concept-global-business-elements-image-furnished-bright-lines-66529240.jpg") no-repeat;
+    background-size: cover;
+    background-attachment:fixed ;
+    align-items: center;
+
+}
+p{
+    color: red;
+}
+h1{
+    color: black;
+;
+}
